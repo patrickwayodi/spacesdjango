@@ -4,7 +4,7 @@ Spacesdjango
 
 This is a Codespace running Django. It's for running exploring Django.
 
-It was copied from [https://github.com/github/codespaces-django](https://github.com/github/codespaces-django)
+It was copied from [https://github.com/github/codespaces-django](https://github.com/github/codespaces-django) and then modified.
 
 Everything done here is contained within this one codespace. If and when you're ready you
 can click "Publish Branch".
